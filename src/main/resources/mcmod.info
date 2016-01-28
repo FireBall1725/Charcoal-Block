@@ -1,0 +1,16 @@
+[
+{
+  "modid": "charcoalblock",
+  "name": "Charcoal Block",
+  "description": "Adds a simple charcoal block to the game",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FireBall1725"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
